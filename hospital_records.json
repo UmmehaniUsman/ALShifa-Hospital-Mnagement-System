@@ -1,0 +1,473 @@
+{
+    "patients": [
+        {
+            "Name": "ali",
+            "CNIC": "35202345566788",
+            "Phone": "03224567865",
+            "Gender": "Male",
+            "ID": "PAT-1001",
+            "Ward": "Neurology",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Severe"
+        },
+        {
+            "Name": "omar",
+            "CNIC": "345235689976654",
+            "Phone": "0321567838223",
+            "Gender": "Male",
+            "ID": "PAT-1002",
+            "Ward": "Private",
+            "status": "Discharged",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 11400,
+            "days_stayed": 1,
+            "Complaint": "Severe"
+        },
+        {
+            "Name": "osama",
+            "CNIC": "34567896543235",
+            "Phone": "03008412454",
+            "Gender": "Male",
+            "ID": "PAT-1003",
+            "Ward": "CCU",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "shoaib",
+            "CNIC": "3520294784832",
+            "Phone": "03009873456",
+            "Gender": "Male",
+            "ID": "PAT-1004",
+            "Ward": "Private",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "yusuf",
+            "CNIC": "345673467877643",
+            "Phone": "03009873456",
+            "Gender": "Male",
+            "ID": "PAT-1005",
+            "Ward": "Cardiology",
+            "status": "Discharged",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 161000,
+            "days_stayed": 15,
+            "Complaint": "Mild"
+        },
+        {
+            "Name": "uzair ali",
+            "CNIC": "030087937673",
+            "Phone": "03009873456",
+            "Gender": "Male",
+            "ID": "PAT-1006",
+            "Ward": "Pediatric",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 85000,
+            "days_stayed": 10,
+            "Complaint": "Severe"
+        },
+        {
+            "Name": "hanif majid",
+            "CNIC": "352904744547832",
+            "Phone": "03005643789",
+            "Gender": "Male",
+            "ID": "PAT-1007",
+            "Ward": "Neurology",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "samina  omar",
+            "CNIC": "03984965865468",
+            "Phone": "03009873456",
+            "Gender": "Female",
+            "ID": "PAT-1008",
+            "Ward": "Private",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Mild"
+        },
+        {
+            "Name": "husna salman",
+            "CNIC": "345677906405445445",
+            "Phone": "03009834521",
+            "Gender": "Female",
+            "ID": "PAT-1009",
+            "Ward": "Orthopedic",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Severe"
+        },
+        {
+            "Name": "kashaf murtaza",
+            "CNIC": "3520295874638",
+            "Phone": "03009876543",
+            "Gender": "Female",
+            "ID": "PAT-1010",
+            "Ward": "Pediatric",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "hamail saklain",
+            "CNIC": "3520264849238932",
+            "Phone": "030098735267",
+            "Gender": "Female",
+            "ID": "PAT-1011",
+            "Ward": "Neurology",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "Haris Majeed",
+            "CNIC": "3202744646755643",
+            "Phone": "03009873456",
+            "Gender": "Male",
+            "ID": "PAT-1012",
+            "Ward": "Orthopedic",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Severe"
+        },
+        {
+            "Name": "Maryam",
+            "CNIC": "3543745468576587",
+            "Phone": "03009873456",
+            "Gender": "Female",
+            "ID": "PAT-1013",
+            "Ward": "Cardiology",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "Sara Sana",
+            "CNIC": "35676876879878",
+            "Phone": "03009873456",
+            "Gender": "Female",
+            "ID": "PAT-1014",
+            "Ward": "Orthopedic",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 0,
+            "days_stayed": 1,
+            "Complaint": "Critical"
+        },
+        {
+            "Name": "Feroz",
+            "CNIC": "35201774893246648",
+            "Phone": "12344566",
+            "Gender": "Male",
+            "ID": "PAT-1015",
+            "Ward": "ICU",
+            "status": "Discharged",
+            "assigned_doctor": "DR HUSSAIN",
+            "purchased_meds": [
+                {
+                    "name": "Phenytoin",
+                    "price": 750
+                },
+                {
+                    "name": "Levetiracetam",
+                    "price": 1800
+                }
+            ],
+            "bill_amt": 47550,
+            "days_stayed": 10,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "alina",
+            "CNIC": "",
+            "Phone": "N/A",
+            "Gender": "",
+            "ID": "PAT-1016",
+            "Ward": "General",
+            "status": "Discharged",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [
+                {
+                    "name": "Amoxicillin",
+                    "price": 300
+                },
+                {
+                    "name": "Dopamine",
+                    "price": 800
+                }
+            ],
+            "bill_amt": 121641046900,
+            "days_stayed": 16894589,
+            "Complaint": ""
+        },
+        {
+            "Name": "Salar",
+            "CNIC": "552027765773439",
+            "Phone": "030026678899",
+            "Gender": "Male",
+            "ID": "PAT-1017",
+            "Ward": "ICU",
+            "status": "Discharged",
+            "assigned_doctor": "Hamza Usman",
+            "purchased_meds": [
+                {
+                    "name": "Warfarin",
+                    "price": 400
+                },
+                {
+                    "name": "Aspirin",
+                    "price": 100
+                }
+            ],
+            "bill_amt": 65500,
+            "days_stayed": 15,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "Salar",
+            "CNIC": "35203757685858",
+            "Phone": "030087587657",
+            "Gender": "Male",
+            "ID": "PAT-1018",
+            "Ward": "Cardiology",
+            "status": "Admitted",
+            "assigned_doctor": "Unassigned",
+            "purchased_meds": [],
+            "bill_amt": 161000,
+            "days_stayed": 15,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "Maha",
+            "CNIC": "352027378833289",
+            "Phone": "032168732890",
+            "Gender": "Female",
+            "ID": "PAT-1019",
+            "Ward": "Orthopedic",
+            "status": "Discharged",
+            "assigned_doctor": "Yousuf",
+            "purchased_meds": [
+                {
+                    "name": "Calcium-D",
+                    "price": 600
+                },
+                {
+                    "name": "Diclofenac",
+                    "price": 200
+                }
+            ],
+            "bill_amt": 137800,
+            "days_stayed": 15,
+            "Complaint": "Moderate"
+        },
+        {
+            "Name": "Meerab",
+            "CNIC": "352028894509324",
+            "Phone": "0300643684213",
+            "Gender": "Female",
+            "ID": "PAT-1020",
+            "Ward": "CCU",
+            "status": "Discharged",
+            "assigned_doctor": "Hamza Usman",
+            "purchased_meds": [
+                {
+                    "name": "Levetiracetam",
+                    "price": 1800
+                },
+                {
+                    "name": "Phenytoin",
+                    "price": 750
+                }
+            ],
+            "bill_amt": 93950,
+            "days_stayed": 18,
+            "Complaint": "Moderate"
+        }
+    ],
+    "staff": [
+        {
+            "Name": "NOMAN",
+            "CNIC": "3454656554433",
+            "Contact": "033466784832",
+            "role": "Doctor",
+            "Shift": "Morning",
+            "Salary": 10000000.0,
+            "is_paid": true,
+            "Department": "Private",
+            "Experience Level": "Consultant"
+        },
+        {
+            "Name": "HASSAAN",
+            "CNIC": "345378436873698",
+            "Contact": "03009873456",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 160000.0,
+            "is_paid": true,
+            "Department": "Cardiology",
+            "Experience Level": "Senior"
+        },
+        {
+            "Name": "JASMINE",
+            "CNIC": "32764673548734873",
+            "Contact": "03009873456",
+            "role": "Nurse",
+            "Shift": "Night",
+            "Salary": 1200000.0,
+            "is_paid": true,
+            "Qualification": "BSc Nursing"
+        },
+        {
+            "Name": "ROSE ",
+            "CNIC": "335746847698437498",
+            "Contact": "03009873456",
+            "role": "Nurse",
+            "Shift": "Night",
+            "Salary": 1500000.0,
+            "is_paid": true,
+            "Qualification": "Diploma"
+        },
+        {
+            "Name": "DR ALIYAR",
+            "CNIC": "334T354736478",
+            "Contact": "03009873456",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 160000.0,
+            "is_paid": true,
+            "Department": "Orthopedic",
+            "Experience Level": "Senior"
+        },
+        {
+            "Name": "DR YAHYA",
+            "CNIC": "352027847365743",
+            "Contact": "030083563672",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 15000000.0,
+            "is_paid": true,
+            "Department": "Neurology",
+            "Experience Level": "Mid-Level"
+        },
+        {
+            "Name": "DR HUSSAIN",
+            "CNIC": "376786334844983",
+            "Contact": "03009873456",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 45000000.0,
+            "is_paid": true,
+            "Department": "Cardiology",
+            "Experience Level": "Senior"
+        },
+        {
+            "Name": "Hamza Usman",
+            "CNIC": "352026578456875",
+            "Contact": "0321557678943",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 15000000.0,
+            "is_paid": true,
+            "Department": "Neurology",
+            "Experience Level": "Consultant"
+        },
+        {
+            "Name": "Asfandyar",
+            "CNIC": "",
+            "Contact": "",
+            "role": "Doctor",
+            "Shift": "",
+            "Salary": 2560000.0,
+            "is_paid": true,
+            "Department": "",
+            "Experience Level": ""
+        },
+        {
+            "Name": "Rabia",
+            "CNIC": "",
+            "Contact": "",
+            "role": "Doctor",
+            "Shift": "",
+            "Salary": 600000.0,
+            "is_paid": true,
+            "Department": "",
+            "Experience Level": ""
+        },
+        {
+            "Name": "Yousuf",
+            "CNIC": "35202758237584",
+            "Contact": "03008787878",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 15878990990.0,
+            "is_paid": true,
+            "Department": "Orthopedic",
+            "Experience Level": "Senior"
+        },
+        {
+            "Name": "Sarfaraz",
+            "CNIC": "",
+            "Contact": "",
+            "role": "Doctor",
+            "Shift": "",
+            "Salary": 18450000000.0,
+            "is_paid": true,
+            "Department": "",
+            "Experience Level": ""
+        },
+        {
+            "Name": "Omer Ali",
+            "CNIC": "35202646742313",
+            "Contact": "030068439058",
+            "role": "Doctor",
+            "Shift": "Night",
+            "Salary": 1500000.0,
+            "is_paid": true,
+            "Department": "Neurology",
+            "Experience Level": "Consultant"
+        }
+    ],
+    "revenue": 87220143110.0
+}
