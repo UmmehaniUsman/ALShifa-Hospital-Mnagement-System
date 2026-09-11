@@ -155,7 +155,6 @@ class Nexus:
         self.setup_main_window()
         self.show_login_screen()
 
-    # --- YOUR ORIGINAL LOGIC (RESTORED COMPLETELY) ---
     def save_data(self):
         try:
             data = {
@@ -271,8 +270,6 @@ class Nexus:
 
     def clear(self):
         for w in self.view.winfo_children(): w.destroy()
-
-    # --- ALL ORIGINAL METHODS RESTORED VERBATIM ---
 
     def show_admit(self):
         self.clear()
